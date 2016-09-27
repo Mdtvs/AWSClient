@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logfile>
+  <convert>false</convert>
+  <merge>false</merge>
+  <delete_local>false</delete_local>
+  <separate_date_time>false</separate_date_time>
+  <delete_remote>false</delete_remote>
+  <existing_log>OVERWRITE</existing_log>
+  <path />
+  <ext_directory />
+</logfile>
+

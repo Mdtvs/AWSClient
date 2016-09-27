@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <language country="US">en</language>
+  <setup_path />
+  <setup_upload_path />
+  <trace_log_path />
+  <trace_log>false</trace_log>
+  <line_wrap>false</line_wrap>
+  <sleep_commands>false</sleep_commands>
+  <close_open>false</close_open>
+  <secure_setup>false</secure_setup>
+  <pin>0000</pin>
+  <resetTO>60</resetTO>
+  <application>NONE</application>
+  <awsclient_debug>false</awsclient_debug>
+  <last_address_book_entry>Default</last_address_book_entry>
+  <pdf_reader_path />
+  <function_keys />
+</options>
+

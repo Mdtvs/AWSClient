@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calibrations>
+  <!--  Example
+  <calibration calibType="MANUAL">SlowMeasure</calibration> // Manual calibration allowed for all sensors that are type "SlowMeasure"
+  <calibration id="TA">SlowMeasure</calibration>            // Offset calibration allowed for sensor with id "TA"
+  -->
+</calibrations>
