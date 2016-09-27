@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <address_book>
   <entry>
-    <name>192.168.1.4</name>
-    <commandWait>10000</commandWait>
-    <application>NONE</application>
-    <type>Socket</type>
-    <IPaddress>192.168.1.4</IPaddress>
-    <port>1002</port>
-    <telnet>true</telnet>
-  </entry>
-  <entry>
     <name>Default</name>
     <commandWait>2000</commandWait>
     <application>NONE</application>
@@ -23,16 +14,7 @@
     <connection_to>60000</connection_to>
   </entry>
   <entry>
-    <name>i[p</name>
-    <commandWait>10000</commandWait>
-    <application>NONE</application>
-    <type>Socket</type>
-    <IPaddress>10.9.15.92</IPaddress>
-    <port>1001</port>
-    <telnet>true</telnet>
-  </entry>
-  <entry>
-    <name>ogms ip 100</name>
+    <name>OGMS100</name>
     <commandWait>10000</commandWait>
     <application>NONE</application>
     <type>Socket</type>
